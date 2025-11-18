@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   math_expressions:
   provider:
+  sizer:
+  shared_preferences: ^2.5.3
+  audioplayers:
 
 dev_dependencies:
   flutter_test:
