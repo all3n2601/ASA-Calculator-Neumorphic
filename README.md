@@ -1,5 +1,7 @@
 # ASA Calculator
 
+<img src="screenshots/showcase.png" alt="Basic Calculator Light Mode"/>
+
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -133,17 +135,9 @@ Features:
 ### Unit Converter
 <div align="center">
 <img src="screenshots/unit_converter.png" width="250" alt="Unit Converter"/>
-<img src="screenshots/unit_categories.png" width="250" alt="Multiple Categories"/>
 </div>
 
 *Convert between 40+ units across 8 categories*
-
-### Navigation
-<div align="center">
-<img src="screenshots/drawer_menu.png" width="250" alt="Navigation Drawer"/>
-</div>
-
-*Easy navigation between all calculators*
 
 ---
 
