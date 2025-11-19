@@ -523,7 +523,7 @@ SOFTWARE.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Allen Febi M A** - *Initial work* - [YourGitHub](https://github.com/all3n2601)
 
 ---
 
@@ -538,23 +538,21 @@ SOFTWARE.
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ASA-Calculator-Neumorphic/issues)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
+- **Issues**: [GitHub Issues](https://github.com/all3n2601/ASA-Calculator-Neumorphic/issues)
+- **Email**: allsurej@gmail.com
 ---
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ASA-Calculator-Neumorphic?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ASA-Calculator-Neumorphic?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/ASA-Calculator-Neumorphic?style=social)
+![GitHub stars](https://img.shields.io/github/stars/all3n2601/ASA-Calculator-Neumorphic?style=social)
+![GitHub forks](https://img.shields.io/github/forks/all3n2601/ASA-Calculator-Neumorphic?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/all3n2601/ASA-Calculator-Neumorphic?style=social)
 
 ---
 
 ## 🎯 Quick Links
 
-- [Download APK](https://github.com/yourusername/ASA-Calculator-Neumorphic/releases)
+- [Download APK](https://github.com/all3n2601/ASA-Calculator-Neumorphic/releases)
 - [View on Play Store](#) (Coming soon)
 - [View on App Store](#) (Coming soon)
 - [Documentation](https://github.com/yourusername/ASA-Calculator-Neumorphic/wiki)
